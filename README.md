@@ -1,11 +1,11 @@
 # Alay Letter 
-Npm Package for convert normal string to alay letter.
+Npm Package for convert normal string to letter aneh.
 
 ## How To Use
 
 ```js
-const alay = require('alay-letter');
+const aneh = require('letter-aneh');
 
-console.log(alay('Hello World'));
+console.log(aneh('Hello World'));
 
 ```
