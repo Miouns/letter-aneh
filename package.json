@@ -4,11 +4,13 @@
   "description": "A simple Package",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
-  "author": "mioun",
-  "license": "ISC",
+  "author": "Syrup#4506",
+  "license": "MIT",
   "dependencies": {
+    "@kagchi/kag-api": "^1.1.1",
     "alay-letter": "^1.0.0"
   },
   "devDependencies": {},
