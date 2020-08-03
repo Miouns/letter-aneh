@@ -1,0 +1,29 @@
+{
+  "name": "letter-aneh",
+  "version": "1.0.0",
+  "description": "A simple Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mioun",
+  "license": "ISC",
+  "dependencies": {
+    "alay-letter": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miouns/letter-aneh.git"
+  },
+  "keywords": [
+    "letter",
+    "converter",
+    "aneh",
+    "letter-converter"
+  ],
+  "bugs": {
+    "url": "https://github.com/Miouns/letter-aneh/issues"
+  },
+  "homepage": "https://github.com/Miouns/letter-aneh#readme"
+}
