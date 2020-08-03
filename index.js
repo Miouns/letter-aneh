@@ -1,4 +1,4 @@
-const alayConverter = function(string) {
+const letterAnehConverter = function(string) {
   let newString = '';
   for (var i = 0, len = string.length; i < len; i++) {
     if (string[i] == 'a') {
@@ -21,4 +21,4 @@ const alayConverter = function(string) {
   }
   return newString;
 }
-module.exports =  alayConverter;
+module.exports =  letterAnehConverter;
